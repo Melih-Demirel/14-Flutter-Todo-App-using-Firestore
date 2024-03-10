@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120213722215",
+    "project_id": "todo-melih",
+    "storage_bucket": "todo-melih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120213722215:android:76538c2a8bad7fcb35f0c2",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8H8lywsexAfANxfH0r-rQLIXycB5cn18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
