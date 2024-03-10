@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAQjv-5Oi5zV4cMIKgRo-P-aOZn2_s4iyY',
-    appId: '1:120213722215:web:ea342c8a84f1fa2135f0c2',
+    apiKey: 'x',
+    appId: 'x',
     messagingSenderId: '120213722215',
     projectId: 'todo-melih',
     authDomain: 'todo-melih.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC8H8lywsexAfANxfH0r-rQLIXycB5cn18',
-    appId: '1:120213722215:android:76538c2a8bad7fcb35f0c2',
+    apiKey: 'x',
+    appId: 'x',
     messagingSenderId: '120213722215',
     projectId: 'todo-melih',
     storageBucket: 'todo-melih.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCwpCa6dtzLTEsB9YaNmFkLh25rs34-KyI',
-    appId: '1:120213722215:ios:3b804d6cc5c92f8a35f0c2',
+    apiKey: 'x-KyI',
+    appId: 'x',
     messagingSenderId: '120213722215',
     projectId: 'todo-melih',
     storageBucket: 'todo-melih.appspot.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCwpCa6dtzLTEsB9YaNmFkLh25rs34-KyI',
-    appId: '1:120213722215:ios:cd5461c87c2aa49035f0c2',
+    apiKey: 'x',
+    appId: 'x',
     messagingSenderId: '120213722215',
     projectId: 'todo-melih',
     storageBucket: 'todo-melih.appspot.com',
